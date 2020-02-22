@@ -4,7 +4,7 @@
  - 黄盛/男/1996 
  - 联系方式：15221381681 
  - 邮箱：717388657@qq.com
- - 上海城建学院/计算机系 
+ - 上海杉达学院/计算机系 
  - 工作年限：3年
  - 技术博客：https://juejin.im/user/58d70d3db123db199f3bf92f
  - Github：https://github.com/Richard1022

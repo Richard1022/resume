@@ -4,7 +4,7 @@
  - 黄盛/男/1996 
  - 联系方式：15221381681 
  - 邮箱：richardhuang1022@foxmail.com
- - 上海城建学院/计算机应用 
+ - 上海杉达学院/计算机应用 
  - 工作年限：4年
  - 掘金博客：https://juejin.im/user/58d70d3db123db199f3bf92f
  - 期望职位：项目经理
@@ -20,7 +20,7 @@
 - 熟练掌握JavaScript，Vue.js全家桶，熟悉前端工程化，组件化，可以快速构建前端中后台项目
 - 熟悉MySql,PostgreSQL,python Flask框架，可基于Vue+Flask进行敏捷开发，快速验证业务
 
-## 技术积累
+# 技术积累
 - [一个思维习惯，让你成为架构师](https://juejin.im/post/5b864509e51d4538815f0125)
      
 
